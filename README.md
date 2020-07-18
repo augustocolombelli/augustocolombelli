@@ -1,5 +1,5 @@
 ### Design Patterns - Examples
-* [State](https://github.com/augustocolombelli/design-pattern-strategy)
+* [Strategy](https://github.com/augustocolombelli/design-pattern-strategy)
 * [Observer](https://github.com/augustocolombelli/design-pattern-observer)
 * [Builder](https://github.com/augustocolombelli/design-pattern-builder)
 * [State](https://github.com/augustocolombelli/design-pattern-state)
