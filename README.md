@@ -1,16 +1,22 @@
-### Hi there 👋
+### Design Patterns - Examples
+* [State](https://github.com/augustocolombelli/design-pattern-strategy)
+* [Observer](https://github.com/augustocolombelli/design-pattern-observer)
+* [Builder](https://github.com/augustocolombelli/design-pattern-builder)
+* [State](https://github.com/augustocolombelli/design-pattern-state)
+</td>
 
-<!--
-**augustocolombelli/augustocolombelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### SOLID Principle - Examples
+* [SOLID - Dependency Inversion Principle (DIP)](https://github.com/augustocolombelli/solid-dependency-inversion-principle)
+* [SOLID - Open Closed Principle (OCP)](https://github.com/augustocolombelli/solid-open-closed-principle)
+  
+### Unit Test - Examples
+* [Argument captor](https://github.com/augustocolombelli/unit-tests-argument-captor)
+* [Mocking void method with do answer](https://github.com/augustocolombelli/unit-tests-mocking-void-doanswer)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Java - Examples
+* [Exceptions](https://github.com/augustocolombelli/java-core-exception)
+* [JAX-RS with Jersey (Rest)](https://github.com/augustocolombelli/javaee-jaxrs-jersey)
+* [JavaEE EJB SOAP Server](https://github.com/augustocolombelli/javaee-ejb-ws-soap-server)
+* [JavaEE EJB SOAP Client](https://github.com/augustocolombelli/javaee-ejb-ws-soap-client)
+* [JavaEE EJB - Schedule](https://github.com/augustocolombelli/javaee-ejb-schedule)
+* [JavaEE EJB - Exchange](https://github.com/augustocolombelli/javaee-ejb-exchange)
