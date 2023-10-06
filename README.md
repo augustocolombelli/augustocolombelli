@@ -15,6 +15,7 @@
 * [Mocking void method with do answer](https://github.com/augustocolombelli/unit-tests-mocking-void-doanswer)
 
 ### Java - Examples
+* [Liquibase, MongoDB and K8s](https://github.com/augustocolombelli/k8s-liquibase-mongodb/)
 * [Apache Solr](https://github.com/augustocolombelli/books-solr-ms)
 * [Exceptions](https://github.com/augustocolombelli/java-core-exception)
 * [JAX-RS with Jersey (Rest)](https://github.com/augustocolombelli/javaee-jaxrs-jersey)
